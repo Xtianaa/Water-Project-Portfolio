@@ -21,4 +21,4 @@ The project demonstrated effective execution in enhancing water accessibility ac
 
 **Tools Used**: Power BI, Excel, SQL
 
-**My Contribution**: Data cleaning, dashboard design, and insight generation
+**My Contribution**: Data cleaning, dashboard design, KPI development and insight generation
